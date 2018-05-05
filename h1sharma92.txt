@@ -1,0 +1,42 @@
+Computational Linguistics 
+Shefali Sharma
+
+
+Question 1:
+	
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile userAgent=\&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36\&quot; version=\&quot;8.2.1\&quot; editor=\&quot;www.draw.io\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;632a838f-c28d-e089-b1f4-189b36d9836a\&quot; name=\&quot;Page-1\&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://www.draw.io/js/viewer.min.js"></script>
+
+Question 2:
+
+qf([], []).
+q00([], [0|L2]) :- qf([], L2).
+
+q0([i|L1], L2) :- q1(L1, L2).
+q0([v|L1], L2) :- q5(L1, L2).
+q0([x|L1], L2) :- q10(L1, L2).
+
+q1([], [1|L2]) :- qf([], L2).
+q1([v|L1], [4|L2]) :- qf(L1, L2).
+q1([x|L1], [9|L2]) :- qf(L1, L2).
+q1([i|L1], L2) :- q2(L1, L2).
+
+q2([], [2|L4]) :- qf([], L4).
+q2([i|L1], [3|L2]) :- qf(L1, L2).
+
+q5([], [5|L5]) :- qf([], L5).
+q5([i|L1], L5) :- q6(L1, L5).
+
+q6([], [6|L6]) :- qf([], L6).
+q6([i|L1], L2) :- q7(L1, L2).
+
+q7([], [7|L6]) :- qf([], L6).
+q7([i|L1], [8|L2]) :- qf(L1, L2).
+
+q10([], [1|L2]) :- q00([], L2).
+q10([i|L1], [1|L2]) :- q1(L1, L2).
+q10([v|L1], [1|L2]) :- q5(L1, L2).
+q10([x|L1], [2|L2]) :- q00(L1, L2).
+
+
+
